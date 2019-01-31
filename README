@@ -1,0 +1,17 @@
+Hi!
+
+Between the end of 2018 and the beginning of 2019, I've been helping a friend to make the analysis of her final bachelor project. 
+
+The aim of her project was to replicate the methodology developed by Chaddad et al 2017 and see if the results were consistent.
+
+The aim of the study is to "investigate the prediction of Non-Small cell lung cancer (NSCLC) patient survival outcomes based on radiomic texture and shape features automatically extracted from tumor image data".
+
+Although, I cannot share the data I used, I hope that the code I'm sharing could be useful for someone who wants to realiaze some of the analysis or graphics.
+
+The following folders contain the code for doing:
+-Spearman correlation and heatmaps.
+-Kaplan-Meir estimation, Long-rank test, and graphics.
+-Random Forest and its evaluation.
+
+
+
