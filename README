@@ -13,7 +13,7 @@ Although I cannot share the data used, I can say that for doing the analysis you
 
 I hope that the code I'm sharing could be useful for someone who wants to realiaze any of the analysis or graphics. 
 
-The following folder contains the code for doing:
+Analysis folder contains the code for doing:
 -Spearman correlation and heatmaps.
 -Kaplan-Meir estimation, Long-rank test, and graphics.
 -Random Forest:  model and evaluation.
